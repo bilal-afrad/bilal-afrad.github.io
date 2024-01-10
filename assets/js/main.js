@@ -608,7 +608,7 @@ copyright();
 
 /* ==================== TIPYNG TITLE ANIMATION ==================== */
 window.ityped.init(document.querySelector('.ityped'),{
-  strings: ['Software Engineer','Entrepreneur','Corporate Trainer','Designer'],
+  strings: ['Software Engineer','Entrepreneur','Corporate Trainer','Creative Specialist'],
   loop: true,
   typeSpeed:  150,
   backDelay: 3000,
